@@ -1,11 +1,12 @@
 [JLink_ARM-OB](https://github.com/OpenPCB/JLink_ARM-OB )
 ========
-* Author  : [Hom](https://github.com/Hom19910422)
-* Version : v1.1
-* Update  : 2014/01/20
+* Author  : [Hom](https://github.com/Hom-Wang)
+* Version : v2.0 待送廠製作 ... 
+* Update  : 2014/03/05
 
 Description
 ========
+Jlink_ARM-OB 是一個採用 STM32 的 Jlink 燒錄器，為了縮減電路體積，僅有 [SWD](http://en.wikipedia.org/wiki/Joint_Test_Action_Group#Serial_Wire_Debug) ( Serial Wire Debug ) 功能，除了上述與無法檢測電壓外，其餘功能與 Jlink 一樣。
 
 License
 ========
@@ -16,13 +17,19 @@ License
 
 Hardware
 ========
+* 控制器　 : STM32F103CB 48Pin 72MHz DSP
+* PCB 尺寸 : 12 * 24mm
+* 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v0.7](https://github.com/OpenPCB/AltiumDesigner_PcbLibrary/releases/tag/v0.7) )
 
 Related Documents
 ========
-* [Google Drive](https://drive.google.com/folderview?id=0BzL2wwAot6oPNHd5QUVPODZGV0k&usp=sharing)
+* [Update Records - Hackpad](https://hom.hackpad.com/JLink_ARM-OB-xrJbocnPSQB)
+* [Datasheet & BOM - Google Drive](https://drive.google.com/folderview?id=0BzL2wwAot6oPNHd5QUVPODZGV0k&usp=sharing)
 
 View
 ========
 
+
 Schematic
 ========
+<img src="https://lh5.googleusercontent.com/-a53zr6f4rME/UxcxDUg0nzI/AAAAAAAAG4k/TZIAdIG8BSc/s800/JLink%2520ARM-OB_Sch.png" />
