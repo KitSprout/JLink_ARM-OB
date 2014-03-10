@@ -1,8 +1,8 @@
 [JLink_ARM-OB](https://github.com/OpenPCB/JLink_ARM-OB )
 ========
 * Author  : [Hom](https://github.com/Hom-Wang)
-* Version : v2.0 待送廠製作 ... 
-* Update  : 2014/03/05
+* Version : v2.0 已送測試板打樣 ... 
+* Update  : 2014/03/11
 
 Description
 ========
