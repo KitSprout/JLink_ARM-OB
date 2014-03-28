@@ -1,8 +1,8 @@
 [JLink_ARM-OB](https://github.com/OpenPCB/JLink_ARM-OB )
 ========
 * Author  : [Hom](https://github.com/Hom-Wang)
-* Version : v2.0 已送測試板打樣 ... 
-* Update  : 2014/03/11
+* Version : v2.2 待驗證 ... 
+* Update  : 2014/03/29
 
 Description
 ========
@@ -19,7 +19,7 @@ Hardware
 ========
 * 控制器　 : STM32F103CB 48Pin 72MHz DSP
 * PCB 尺寸 : 12 * 24mm
-* 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v0.7](https://github.com/OpenPCB/AltiumDesigner_PcbLibrary/releases/tag/v0.7) )
+* 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v0.9](https://github.com/OpenPCB/AltiumDesigner_PcbLibrary/releases/tag/v0.9) )
 
 Related Documents
 ========
