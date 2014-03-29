@@ -32,4 +32,4 @@ View
 
 Schematic
 ========
-<img src="https://lh5.googleusercontent.com/-a53zr6f4rME/UxcxDUg0nzI/AAAAAAAAG4k/TZIAdIG8BSc/s800/JLink%2520ARM-OB_Sch.png" />
+<img src="https://lh5.googleusercontent.com/-h7OV7omgW8I/UzZUPHhemnI/AAAAAAAAHKY/TfIvAoeJVDc/s1600/JLink%2520ARM-OB_v2.2_Sch.png" />
