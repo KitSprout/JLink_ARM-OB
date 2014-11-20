@@ -27,7 +27,7 @@ Related Documents
 
 View
 ========
-
+<img src="https://lh6.googleusercontent.com/-huJDrxIhLgI/VG4jpjplohI/AAAAAAAALQA/jgsqVsGVYVc/s1600/DSC_2698.jpg" />
 
 Schematic
 ========
