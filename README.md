@@ -9,7 +9,7 @@ JLink_ARM-OB 是一個採用 STM32 的 JLink 燒錄器，為了縮減電路體�
 
 View
 ========
-<img src="https://lh3.googleusercontent.com/trEjiYopeVuZzbjBcqQk-pyJm1heHa-WqhRWqja0lBvzEU7XNf_Lc-Jpdgp6oj_47iD2B5bkAvEABC0KTsHNGbegxN2mr-G_ZmdyfDhMq9jrmZG6mfmSuQcrNoese7KFsNy6d60Wkdg=w2400"/>
+<img src="https://github.com/KitSprout/JLink_ARM-OB/blob/master/picture/view.jpg"/>
 <br />
 
 [more photo](https://goo.gl/photos/2oKscrpEAqJvcc3M7)
